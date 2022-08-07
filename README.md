@@ -7,8 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
-<img scr = "Desktop/sun.jpg"
-
+![]("Desktop/sun.png")
+<img scr = "Desktop/sun.png"
+     
 - 🔭 I’m currently working on **Machine Learning, Database**
 
 - 🌱 I’m currently learning **MS Excel, Tableau,Python(Pandas,seaborn,Numpy,Scikit),Machine learning,Mysql, R-programming)**
